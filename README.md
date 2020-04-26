@@ -1,6 +1,6 @@
 # gatsby-recipe-yaml-source
 
-Setup Gatsby to source data from a YAML file directly into a page or component.
+Set up Gatsby to source data from YAML files directly into a page or component.
 
 [Demo](https://gatsby-recipe-yaml-source.netlify.app/)
 
